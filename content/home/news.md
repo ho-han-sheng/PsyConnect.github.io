@@ -4,10 +4,12 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Latest Events
 subtitle:
 
 content:
+  folders: 
+    - event
   count: 5
   filters:
     author: ''
