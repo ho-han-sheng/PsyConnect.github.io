@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group!
+    - title: 👋 Welcome!
       content: Take a look at what we're working on...
       align: center
       background:
@@ -33,7 +33,7 @@ content:
         media: zoom_stock.jpg
       link:
         icon: person-chalkboard
-        icon_pack: fas
+        icon_pack: far
         text: Peek our upcoming events
         url: ../event/
     - title: PsyConnect Statistics Support Group
