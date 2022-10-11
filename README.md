@@ -26,4 +26,4 @@
 
 ## Resources
 - Website template from https://github.com/wowchemy/starter-hugo-research-group
-- Github pages deployment from https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-first-deployment-with-github_token
+- Github pages deployment from https://github.com/peaceiris/actions-hugo#%EF%B8%8F-use-hugo-extended
