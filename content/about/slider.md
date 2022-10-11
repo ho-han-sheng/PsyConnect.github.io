@@ -33,7 +33,7 @@ content:
         media: zoom_stock.jpg
       link:
         icon: person-chalkboard
-        icon_pack: far
+        icon_pack: fas
         text: Peek our upcoming events
         url: ../event/
     - title: PsyConnect Statistics Support Group
