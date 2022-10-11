@@ -18,7 +18,6 @@
   - [ ] Sourcetree and git tutorial
   - [ ] Visual studio code tutorial
   
-
 #### Content
 - [ ] Upload psyconnect logo
 - [ ] Remove "News" page temporarily
@@ -26,4 +25,4 @@
 
 ## Resources
 - Website template from https://github.com/wowchemy/starter-hugo-research-group
-- Github pages deployment from https://github.com/peaceiris/actions-hugo#%EF%B8%8F-use-hugo-extended
+- Github pages deployment from https://github.com/peaceiris/actions-hugo#github-actions-for-hugo
