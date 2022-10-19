@@ -32,7 +32,7 @@ content:
         brightness: 0.5
         media: zoom_stock.jpg
       link:
-        icon: person-chalkboard
+        icon: chalkboard-teacher
         icon_pack: fas
         text: Peek our upcoming events
         url: ../event/
