@@ -24,6 +24,11 @@ content:
   coordinates:
     latitude: '1.327937'
     longitude: '103.775688'
+  contact_links:
+    - icon: instagram
+      icon_pack: fab
+      name: Follow our Instagram!
+      link: 'https://instagram.com/susspsyconnect/'
 
   #contact_links:
   #  - icon: comments
