@@ -1,4 +1,7 @@
 ---
+# Order that this section appears on the page.
+weight: 10
+
 title: PsyConnect Plays!
 
 location: Mosanco Settler's Cafe
