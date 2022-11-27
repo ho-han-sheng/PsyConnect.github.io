@@ -1,7 +1,10 @@
 ---
 title: Leong Wei Ren Darren
 avatar_filename: avatar.jpg
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/darrenlwr/
 education:
   courses:
     - course: Bachelor of Science in Psychology
