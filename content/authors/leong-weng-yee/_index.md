@@ -1,7 +1,10 @@
 ---
 title: Leong Weng Yee
 avatar_filename: avatar.jpg
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/weng-yee-leong-9847041b3/
 education:
   courses:
     - course: Bachelor of Science in Psychology
