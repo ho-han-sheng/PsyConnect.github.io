@@ -21,7 +21,7 @@ education:
       institution: Singapore University of Social Sciences
       year: 2024
 email: "hsho005@suss.edu.sg"
-superuser: true
+superuser: false
 user_groups:
   - EXCO Members
 highlight_name: false
