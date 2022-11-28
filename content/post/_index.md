@@ -9,3 +9,5 @@ banner:
   caption: ''
   image: ''
 ---
+
+No news yet, keep an eye out for future updates!

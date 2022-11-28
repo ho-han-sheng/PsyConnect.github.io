@@ -52,11 +52,11 @@ projects:
 
 On the 13th of August 2022, PsyConnect organised a wellness event that was centered around nature. This event took place at Botanic Gardens where students got to engage in a few destressing activities and interacting with other students over games and snacks. 
 
-Furthermore, two members of PsyConnect shared their own personal struggles with stress/anxiety and how they managed those emotions. One helpful and practical takeaway is the mindful practice of grounding (with your 5 senses)
-: 5 things you can **see**
-  4 things you can **touch**
-  3 things you can **hear**
-  2 things you can **smell**
-  1 thing you can **taste**
+Furthermore, two members of PsyConnect shared their own personal struggles with stress/anxiety and how they managed those emotions. One helpful and practical takeaway is the mindful practice of grounding (with your 5 senses):
+* 5 things you can **see**
+* 4 things you can **touch**
+* 3 things you can **hear**
+* 2 things you can **smell**
+* 1 thing you can **taste**
 
 Check out this [link](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/5-4-3-2-1-countdown-to-make-anxiety-blast-off) to find out more!
