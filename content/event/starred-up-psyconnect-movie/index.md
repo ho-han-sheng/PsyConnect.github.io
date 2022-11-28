@@ -22,7 +22,7 @@ authors: []
 tags: []
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 image:
     focal_point: Smart
