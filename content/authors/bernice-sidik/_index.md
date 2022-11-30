@@ -1,7 +1,10 @@
 ---
 title: Bernice Sidik
 avatar_filename: avatar
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bernice-sidik/
 education:
   courses:
     - course: Bachelor of Science in Psychology

@@ -5,7 +5,10 @@ title: Chan Yu Xiu Bryan
 role: ""
 bio: ""
 interests: ""
-social: []
+social:
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/bryan-chan-771145169/
 education:
   courses:
     - course: Bachelor of Science (Hons.) in Psychology
