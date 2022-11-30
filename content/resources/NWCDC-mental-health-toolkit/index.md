@@ -1,6 +1,7 @@
 ---
 title: 'NWCDC Mental Health E-Toolkit'
-authors: 'PsyConnect'
+authors:
+  - psyconnect
 date: '2022-04-29T00:00:00+08:00'
 doi: ''
 
