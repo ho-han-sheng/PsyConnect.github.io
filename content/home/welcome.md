@@ -4,9 +4,7 @@ widget_id: update title
 headless: true
 weight: 10
 title: 
-hero_media: 
-{{< figure src="psyconnect_logo_lightmode" caption="" theme="light" >}}
-{{< figure src="psyconnect_logo_darkmode.png" caption="" theme="dark" >}}
+hero_media: IMH.jpg
 design:
   columns: "1"
   css_style: null
