@@ -8,8 +8,6 @@ title: Latest Events
 subtitle:
 
 content:
-  folders: 
-    - event
   count: 5
   filters:
     author: ''

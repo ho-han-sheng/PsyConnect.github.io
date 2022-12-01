@@ -12,11 +12,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['4']
+publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
 publication: 'North-West Community Development Council Mental Health E-Toolkit'
-publication_short: 'North-West CDC Mental Health E-Toolkit'
+publication_short: ''
 
 abstract: 
 
@@ -50,7 +50,9 @@ slides: []
 
 Collaboration between PsyConnect, North-West Community Development Council and social service agencies (SSAs) for the creation of a mental health e-toolkit. 
 
+
 ## References
+
 
 ### Mental Wellness Overview (Page 3)
 
@@ -71,7 +73,7 @@ Collaboration between PsyConnect, North-West Community Development Council and s
 
 ### Practical Resources: Stress (Page 7)
 
-1. Lazarus, R. S. (1990). Theory-based stress measurement. _Psychological Inquiry_, 1(1), 3–13. https://doi.org/10.1207/s15327965pli0101_1
+1. Lazarus, R. S. (1990). Theory-based stress measurement. _Psychological Inquiry_, _1_(1), 3–13. https://doi.org/10.1207/s15327965pli0101_1
 2. OECD. (2019). _PISA 2018 results (Volume II): Where all students can succeed_. OECD. https://doi.org/10.1787/b5fd1b8f-en
 3. Blackwell, L. S., Trzesniewski, K. H., & Dweck, C. S. (2007). Implicit theories of intelligence predict achievement across an adolescent transition: A longitudinal study and an intervention. _Child Development_, _78_(1), 246– 263. https://doi.org/10.1111/j.1467-8624.2007.00995.x
 4. Cheng, C., Kogan, A., & Chio, J. H. (2012). The effectiveness of a new, coping flexibility intervention as compared with a cognitive-behavioural intervention in managing work stress. _Work & Stress_, _26_(3), 272–288. https://doi.org/10.1080/02678373.2012.710369
