@@ -3,8 +3,10 @@ widget: hero
 widget_id: update title
 headless: true
 weight: 10
-title: PsyConnect
-hero_media: psyconnect-logo-blank-bg.png
+title: 
+hero_media: 
+{{< figure src="psyconnect_logo_lightmode" caption="" theme="light" >}}
+{{< figure src="psyconnect_logo_darkmode.png" caption="" theme="dark" >}}
 design:
   columns: "1"
   css_style: null
