@@ -15,7 +15,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['0']
 
 # Publication name and optional abbreviated publication name.
-publication: 'North-West Community Development Council Mental Health E-Toolkit'
+publication: ''
 publication_short: ''
 
 abstract: 
