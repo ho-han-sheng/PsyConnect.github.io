@@ -4,7 +4,7 @@ widget_id: update title
 headless: true
 weight: 10
 title: PsyConnect
-hero_media: psyconnect-logo-blank-bg.jpg
+hero_media: psyconnect-logo-blank-bg.png
 design:
   columns: "1"
   css_style: null
