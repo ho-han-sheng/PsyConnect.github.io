@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
   - title: UPSS Founded
     company: UNISIM Psychological Student's Society
+    company_logo: ''
     date_start: '2007-01-01'
     date_end: '2007-12-01'
     description: |2-
@@ -31,6 +32,7 @@ experience:
 
   - title: First Committee
     company: UNISIM Psychological Student's Society
+    company_logo: ''
     date_start: '2008-01-01'
     date_end: '2008-12-01'
     description: |2-
@@ -38,6 +40,7 @@ experience:
 
   - title: Volunteering at Institute for Mental Health (IMH)
     company: UNISIM Psychological Student's Society
+    company_logo: ''
     date_start: '2012-01-01'
     date_end: '2016-12-01'
     description: |2-
@@ -45,6 +48,7 @@ experience:
 
   - title: Renamed to PsyConnect@SUSS
     company: PsyConnect@SUSS
+    company_logo: ''
     date_start: '2017-01-01'
     date_end: '2017-12-01'
     description: |2- 
@@ -52,6 +56,7 @@ experience:
 
   - title: Year of New Activities!
     company: PsyConnect@SUSS
+    company_logo: ''
     date_start: '2018-01-01'
     date_end: '2019-12-01'
     description: |2- 
@@ -59,7 +64,8 @@ experience:
 
   - title: New Launch of PsyConnect
     company: PsyConnect
-    date_start: '2020-12-01'
+    company_logo: ''
+    date_start: '2020-01-01'
     date_end: ''
     description: |2- 
         The pandemic propelled our first foray into the digital sphere with the establishment of our official Instagram page [@susspsyconnect](https://www.instagram.com/susspsyconnect/) alongside our current logo!
