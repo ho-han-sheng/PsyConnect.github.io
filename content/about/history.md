@@ -52,7 +52,7 @@ experience:
     date_start: '2017-01-01'
     date_end: '2017-12-01'
     description: |2- 
-        With the officiation of UNISIM as Singapore sixth autonomous university, our society was renamed to reflect the transition into the Singapore University of Social Sciences (SUSS).
+        With the officiation of UNISIM as Singapore's sixth autonomous university, our society was renamed to reflect the transition into the Singapore University of Social Sciences (SUSS).
 
   - title: Year of New Activities!
     company: PsyConnect@SUSS
