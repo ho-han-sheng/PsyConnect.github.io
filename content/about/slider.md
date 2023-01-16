@@ -1,13 +1,13 @@
 ---
 widget: slider
-weight: 20
+weight: 10
 active: true
 headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: ''
-  is_fullscreen: true
+  slide_height: '400px'
+  is_fullscreen: false
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
@@ -23,6 +23,7 @@ content:
         color: '#666'
         brightness: 0.5
         media: working.jpg
+        fit: cover
     - title: Events
       content: 'Attend talks, movie screenings and bond with your peers'
       align: left
@@ -31,6 +32,7 @@ content:
         color: '#555'
         brightness: 0.5
         media: zoom_stock.jpg
+        fit: cover
       link:
         icon: chalkboard-teacher
         icon_pack: fas
@@ -44,6 +46,7 @@ content:
         color: '#333'
         brightness: 0.5
         media: stats_avatar.jpg
+        fit: cover
       link:
         icon: comments
         icon_pack: fas
@@ -57,6 +60,7 @@ content:
         color: '#333'
         brightness: 0.5
         media: email.jpg
+        fit: cover
       link:
         icon: envelope
         icon_pack: fas

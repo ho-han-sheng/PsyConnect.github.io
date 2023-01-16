@@ -1,5 +1,6 @@
 ---
 title: Bernice Sidik
+role: "Media Communications Director"
 avatar_filename: avatar
 social:
   - icon: linkedin
@@ -7,7 +8,7 @@ social:
     link: https://www.linkedin.com/in/bernice-sidik/
 education:
   courses:
-    - course: Bachelor of Science in Psychology
+    - course: BSc in Psychology
       institution: Singapore University of Social Sciences
       year: 2024
 superuser: false
