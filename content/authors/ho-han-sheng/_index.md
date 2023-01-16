@@ -17,7 +17,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: Bachelor of Science in Psychology
+    - course: BSc. in Psychology
       institution: Singapore University of Social Sciences
       year: 2024
 email: "hsho005@suss.edu.sg"

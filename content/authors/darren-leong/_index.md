@@ -7,7 +7,7 @@ social:
     link: https://www.linkedin.com/in/darrenlwr/
 education:
   courses:
-    - course: Bachelor of Science in Psychology
+    - course: BSc. in Psychology
       institution: Singapore University of Social Sciences
       year: 2023
 superuser: false
