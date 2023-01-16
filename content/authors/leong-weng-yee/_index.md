@@ -1,6 +1,7 @@
 ---
 title: Leong Weng Yee
 avatar_filename: avatar.jpg
+role: "Logistics Director"
 social:
   - icon: linkedin
     icon_pack: fab
