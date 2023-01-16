@@ -2,6 +2,7 @@
 title: Atiqah Azhari, Ph.D
 avatar_filename: avatar
 bio: "Dr Atiqah is a Faculty (Lecturer) at the Singapore University of Social Sciences who examines brain and behavioural mechanisms of interpersonal relationships when people engage in real-world activities in naturalistic settings."
+role: "Lecturer, Psychology Programme"
 interests:
   - Social neuroscience
   - Brain synchrony
