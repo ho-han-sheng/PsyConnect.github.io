@@ -10,6 +10,7 @@ interests:
   - Social psychology
   - Parent-child relationships
   - Cultural and group dynamics
+  - Collaboration, learning and performance
 social:
   - icon: linkedin
     icon_pack: fab
