@@ -2,7 +2,7 @@
 title: 'NWCDC Mental Health E-Toolkit'
 authors:
   - psyconnect
-date: '2022-04-29T00:00:00+08:00'
+date: '2023-03-11T00:00:00+08:00'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -49,6 +49,8 @@ slides: []
 ---
 
 This project is a collaboration between North West Community Development Council (North West CDC) and the Singapore University of Social Sciences (SUSS). The content has been developed by students from SUSS PsyConnect Psychology Interest Group with the support of SUSS psychology faculty members as well as various members from different Social Service Agencies (SSAs).
+
+The toolkit is designed to feature what mental wellness looks like within the community through the stories of everyday Singaporeans. It also showcases the different mental health support and providers available within North West District.
 
 # References
 
