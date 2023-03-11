@@ -1,7 +1,7 @@
 ---
 title: Atiqah Azhari, Ph.D
 avatar_filename: avatar
-bio: "Dr Atiqah is a Faculty (Lecturer) at the Singapore University of Social Sciences who examines brain and behavioural mechanisms of interpersonal relationships when people engage in real-world activities in naturalistic settings."
+bio: "Dr Atiqah is a Faculty (Lecturer) at the Singapore University of Social Sciences (SUSS). She uses behavioural and neuroscience approaches in her two key areas of research expertise: (1) Parent-child relationships, spousal relationships, family, and child development and (2) Collaboration, learning and performance."
 role: "Lecturer, Psychology Programme"
 interests:
   - Social neuroscience
@@ -26,8 +26,8 @@ superuser: false
 user_groups:
   - Faculty Advisor
 ---
-Dr Atiqah is a Faculty (Lecturer) at the Singapore University of Social Sciences who examines brain and behavioural mechanisms of interpersonal relationships when people engage in real-world activities in naturalistic settings. 
+Dr Atiqah is a Faculty (Lecturer) at the Singapore University of Social Sciences (SUSS). She uses behavioural and neuroscience approaches in her two key areas of research expertise: (1) Parent-child relationships, spousal relationships, family, and child development and (2) Collaboration, learning and performance. Atiqah is concurrently a Visiting Researcher at the Centre for Research and Development in Learning, NTU. She serves as an Associate Editor for the Editorial Board of Elsevier and she sits in the Advisory Committee of PPIS, where she leads research that improves social services and programmes in the organisation.
 
-She is keen to discover dyadic and group based interpersonal neural markers which could be predictive of important outcomes, such as quality of relationships, collaboration, performance and learning. 
+A prolific academic who has published numerous papers in high-impact journals (h-index: 13, total citations: 651); her work has been featured in media outlets both locally and around the globe, drawing a wide range of scientific and public audiences. She has presented her findings in numerous international conferences, including in the USA, UK, Italy, Japan, Thailand and Singapore. She has been interviewed by local programmes like Channel NewsAsia and DETIK.
 
-Some of her latest work have examined the effects of physical presence on interpersonal neural synchrony (INS; similarities in brain signals) of couples, the effects of parenting stress and attachment on parent-child dyads when they engage in everyday activities like watching movies and playing together, and the role of parent-facilitated conversations with their child about in-group, out-group and multicultural Singaporean narratives. 
+Beyond her research activities, Dr Atiqah has accrued invaluable teaching experiences, having taught undergraduate and graduate students in Singapore and Italy in various teaching formats: lectures, seminars, tutorials, laboratory classes. She currently teaches Social Psychology and Mental Health and Wellbeing courses at SUSS.
