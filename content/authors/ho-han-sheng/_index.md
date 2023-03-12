@@ -4,9 +4,9 @@ role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Mood and anxiety disorders
-  - Psychological networks
-  - Statistical methods 
+  - Psychopathology
+  - Statistical methods for the social sciences
+  - Psychological network models
 social:
   - icon: github
     icon_pack: fab
