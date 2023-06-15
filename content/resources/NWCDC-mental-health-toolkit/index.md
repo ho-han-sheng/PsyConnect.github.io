@@ -48,7 +48,9 @@ projects: []
 slides: []
 ---
 
-This project is a collaboration between North West Community Development Council (North West CDC) and the Singapore University of Social Sciences (SUSS). The content has been developed by students from SUSS PsyConnect Psychology Interest Group with the support of SUSS psychology faculty members as well as various members from different Social Service Agencies (SSAs).
+View NWCDC's post [here](https://northwest.cdc.gov.sg/programmes/promoting-health-and-wellness/mental-wellness/)!
+
+This project is a collaboration between North West Community Development Council (NWCDC) and the Singapore University of Social Sciences (SUSS). The content has been developed by students from SUSS PsyConnect Psychology Interest Group with the support of SUSS psychology faculty members as well as various members from different Social Service Agencies (SSAs).
 
 The toolkit is designed to feature what mental wellness looks like within the community through the stories of everyday Singaporeans. It also showcases the different mental health support and providers available within North West District.
 
