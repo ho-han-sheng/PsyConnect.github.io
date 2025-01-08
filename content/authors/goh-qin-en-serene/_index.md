@@ -6,7 +6,7 @@ education:
   courses:
     - course: BSc. in Psychology
       institution: Singapore University of Social Sciences
-      year: 2024
+      year: 2025
 superuser: false
 user_groups:
   - President

@@ -4,10 +4,21 @@ role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - Quantitative Psychology
+  - Network Psychometrics
+  - Complex Systems
   - Psychopathology
-  - Statistical methods for the social sciences
-  - Psychological network models
 social:
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:hanshengho@suss.edu.sg'
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0009-0000-8091-4045
+  - icon: globe
+    icon_pack: fas
+    link: https://ho-han-sheng.github.io/
   - icon: github
     icon_pack: fab
     link: https://github.com/ho-han-sheng
@@ -17,9 +28,9 @@ social:
 organizations: []
 education:
   courses:
-    - course: BSc. in Psychology
+    - course: BSc. (Hons.) in Psychology
       institution: Singapore University of Social Sciences
-      year: 2024
+      year: 2025
 email: "hsho005@suss.edu.sg"
 superuser: false
 user_groups:

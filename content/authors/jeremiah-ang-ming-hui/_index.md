@@ -1,17 +1,14 @@
 ---
-title: Bernice Sidik
+title: Jeremiah Ang Ming Hui
+avatar_filename: avatar.jpg
 role: "Media Communications Director"
-avatar_filename: avatar
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/bernice-sidik/
 education:
   courses:
     - course: BSc. in Psychology
       institution: Singapore University of Social Sciences
-      year: 2024
+      year: 2027
 superuser: false
 user_groups:
-  - 
+  - EXCO Members
 ---
