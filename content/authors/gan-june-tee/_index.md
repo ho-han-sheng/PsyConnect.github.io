@@ -1,5 +1,5 @@
 ---
-title: June Gan Tee
+title: Gan June Tee (June)
 avatar_filename: avatar.jpg
 role: "Events and Logistics Director"
 social:
