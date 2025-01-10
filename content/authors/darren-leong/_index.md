@@ -12,5 +12,5 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - General Secretary
+  - 
 ---
